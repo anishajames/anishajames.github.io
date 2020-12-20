@@ -1,2 +1,2 @@
 
-View my profile
+This is my tech profile portfolio site
